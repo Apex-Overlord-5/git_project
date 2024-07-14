@@ -1,4 +1,4 @@
-# classico
+# Rubesh Dice App
 
 A new Flutter project.
 
